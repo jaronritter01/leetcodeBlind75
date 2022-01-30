@@ -1,4 +1,4 @@
-#LeetCode Blind 75 Solutions
+# LeetCode Blind 75 Solutions
 
 This is a collection of solutions I have figured out for a the problem set called "Leetcode Blind 75"
 
